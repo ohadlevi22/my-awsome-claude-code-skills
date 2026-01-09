@@ -57,7 +57,8 @@ library/
 | **Macro Miniature** | Tiny people in giant world | Surreal, fun, creative |
 | **Fine Art Conceptual** | Symbolic, gallery-worthy | Artistic, meaningful |
 | **Street Art Mural** | Urban art, 3D integration | Textured, urban, creative |
-| **Fantasy Crossover** | Real people in animated worlds | Magical, whimsical |
+| **Fantasy Crossover** | Real people in 3D animated worlds | Magical, whimsical |
+| **Cartoon Animation** | Kids as 2D cartoon characters | Playful, colorful, TV-animation |
 
 ---
 
@@ -94,8 +95,12 @@ conceptual, artistic, meaningful
 street, mural, graffiti,          →  Street Art Mural
 painted, urban, wall, texture
 
-disney, pixar, animated,          →  Fantasy Crossover
-magical, cartoon, whimsical
+disney, pixar, 3d animated,       →  Fantasy Crossover
+magical, whimsical, fairy
+
+cartoon, animated, nickelodeon,   →  Cartoon Animation
+loud house, gravity falls, 2d,
+tv cartoon, casagrandes
 
 (no clear match)                  →  Cinematic Drama (default)
 ```

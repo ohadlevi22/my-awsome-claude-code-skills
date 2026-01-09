@@ -12,7 +12,8 @@ Master catalog for Nano Banana prompt styles. Used for automatic style matching 
 | macro-miniature | Macro Miniature | tiny, miniature, giant, small, big world, scale, honey shrunk, ant | macro worm-eye | dramatic-cinematic | Creative scale play, surreal fun |
 | fine-art-conceptual | Fine Art Conceptual | art, symbolic, gallery, conceptual, artistic, museum, meaning, abstract | 50mm neutral | studio-controlled | Artistic statements, symbolic imagery |
 | street-art-mural | Street Art Mural | street, mural, graffiti, painted, urban, wall, banksy, texture | medium straight-on | golden-warm | Urban art, textured creative |
-| fantasy-crossover | Fantasy Crossover | disney, pixar, animated, magical, cartoon, whimsical, fairy, enchanted | wide environmental | soft-magical | Real people in animated worlds |
+| fantasy-crossover | Fantasy Crossover | disney, pixar, magical, whimsical, fairy, enchanted, 3d animated | wide environmental | soft-magical | Real people in 3D animated worlds |
+| cartoon-animation | Cartoon Animation | cartoon, animated, nickelodeon, disney channel, loud house, gravity falls, 2d animation, tv cartoon, casagrandes, big city greens, steven universe | front-facing character | flat-even | Kids as 2D cartoon characters |
 
 ## Matching Rules
 
